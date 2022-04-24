@@ -2,7 +2,7 @@ Hi 👋 My name is Sneh Acharya
 and I am a freshman at the University of Texas in Arlington studying Computer Science with plans to graduate in Fall 2024. I am currently employed as an Undergraduate Researcher at the Heracleia Lab at the University of Texas at Arlington. I have a great interest in programming and problem solving, and I enjoy being able to put those talents to use on major projects! 
 
 Hello and welcome to my GitHub profile!  
-* 🌍  I'm based in US * 
+* 🌍  I'm based in US
 * 🖥️  See my portfolio at [at my website](http://snehacharya.netlify.app) 
 * ✉️  You can contact me at [acharyasneh007@gmail.com](mailto:acharyasneh007@gmail.com) 
 * 🧠  I'm learning Selenium and Cypress 
