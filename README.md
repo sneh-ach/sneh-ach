@@ -3,7 +3,7 @@ and I am a freshman at the University of Texas in Arlington studying Computer Sc
 
 Hello and welcome to my GitHub profile!  
 * 🌍  I'm based in US
-* 🖥️  See my portfolio at [at my website](http://snehacharya.netlify.app) 
+* 🖥️  See my portfolio [at my website](http://snehacharya.netlify.app) 
 * ✉️  You can contact me at [acharyasneh007@gmail.com](mailto:acharyasneh007@gmail.com) 
 * 🧠  I'm learning Selenium and Cypress 
 * 🤝  I'm open to collaborating on projects related to Robotics and Automation
